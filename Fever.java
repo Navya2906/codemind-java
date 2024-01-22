@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class InteriorDesign 
+public class Fever 
 {
     public static void main(String[] args) 
     {
